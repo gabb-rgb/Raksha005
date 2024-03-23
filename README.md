@@ -1,3 +1,3 @@
 hi i am raksha adhikari 
-this is my first git resopiratory
+this is my first git repositary
 
