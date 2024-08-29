@@ -1,6 +1,5 @@
 #short code for google translator
-from googletrans import Translator
-
+from googletrans import Translator;
 print("OUR GOOGLE TRANSLATOR")
 translator=Translator()
 
